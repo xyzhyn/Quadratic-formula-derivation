@@ -38,5 +38,8 @@
   $\displaystyle x = - \frac{b}{2a} \pm \frac{\sqrt{b^{2} - 4ac}}{\sqrt{4a^{2}}}$<br>
   $\displaystyle x = - \frac{b}{2a} \pm \frac{\sqrt{b^{2} - 4ac}}{2a}$<br>
 
+  $\displaystyle x_{1} = - \frac{b}{2a} + \frac{\sqrt{b^{2} - 4ac}}{2a}$<br>
+  $\displaystyle x_{2} = - \frac{b}{2a} - \frac{\sqrt{b^{2} - 4ac}}{2a}$
+
 
 </p>
